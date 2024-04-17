@@ -37,4 +37,4 @@ type MathJaxProviderProps = {
 };
 
 const DEFAULT_OPTIONS: MathJaxOptions = {};
-const DEFAULT_URL = 'https://cdn.jsdelivr.net/npm/mathjax@3.0.1/es5/tex-mml-chtml.js';
+const DEFAULT_URL = 'https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.min.js';
